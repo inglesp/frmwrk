@@ -1,0 +1,9 @@
+[project]
+name = "frmwrk"
+version = "0.1.0"
+description = "A tiny single-module Python web framework."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gunicorn>=25.2.0",
+]
